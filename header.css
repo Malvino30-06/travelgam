@@ -18,6 +18,8 @@ header .container {
     max-width: 384px;
 }
 
+
+
 #profile h1 {
     font: var(--text-lg);
     color: var(--text-color-primary);
@@ -35,7 +37,7 @@ header .container {
     flex-direction: column;
     gap: 16px;
 
-    width: 280px;
+    width: 230px;
 }
 
 #info li {
