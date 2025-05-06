@@ -41,8 +41,11 @@ Aqui está uma prévia do layout da aplicação:
 ## 📌 Funcionalidades
 
 ✅ Perfil de usuário personalizado
+
 ✅ Exibição de fotos de viagens
+
 ✅ Informações detalhadas sobre os destinos
+
 ✅ Design responsivo e elegante
 
 ---
